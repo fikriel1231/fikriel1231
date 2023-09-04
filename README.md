@@ -22,7 +22,7 @@ Hey folks! I'm just a Junior Software Developer who's head over heels for crafti
 [![My Skills](https://skillicons.dev/icons?i=photoshop,xd,figma)](https://skillicons.dev)
 
 
-## 📷 - Designs & Portofolio
+## 📷  Designs & Portofolio
 Check out some of my Design(s) & Portofolio(?)
 
 <a href="https://www.behance.net/fikrigg">
@@ -30,7 +30,7 @@ Check out my Behance
 </a><br>
 
 
-## 🚀 - My Github Stats
+## 🚀  My Github Stats
 **This Github Stats doesn't really indicate my Skills**, This stats just showing the language(s) i've used Most on my GitHub Repositories
 
 ![Fikri el's GitHub stats](https://github-readme-stats.vercel.app/api/?username=fikriel1231&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) <br>
